@@ -43,22 +43,26 @@ header h1 {
     box-shadow: 0 8px 16px rgba(0,0,0,0.15);
 }
 
+/* Product images */
 .product-card img {
     width: 100%;
     height: auto;
 }
 
+/* Product name */
 .product-card h2 {
     font-size: 1.5rem;
     margin: 1rem 0 0.5rem;
 }
 
+/* Product price */
 .product-card p {
     font-size: 1.2rem;
     color: #28a745;
     margin: 0.5rem 0 1rem;
 }
 
+/* View Details button */
 .product-card a {
     display: inline-block;
     margin-bottom: 1.5rem;
