@@ -87,6 +87,7 @@ footer {
     padding: 1rem 0;
     margin-top: 2rem;
 }
+/* Homepage css  */
 nav ul {
     list-style: none;
     display: flex;
@@ -126,10 +127,3 @@ nav ul li a {
     font-weight: bold;
 }
 
-footer {
-    background-color: #343a40;
-    color: #fff;
-    text-align: center;
-    padding: 15px 0;
-    margin-top: 40px;
-}
